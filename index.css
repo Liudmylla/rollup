@@ -1,0 +1,11 @@
+body {
+    background: violet;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    color:white
+}
+.js-image {
+    max-width: 200px;
+}
